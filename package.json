@@ -1,0 +1,19 @@
+{
+  "name": "socketIOChat",
+  "version": "1.0.0",
+  "description": "A nodejs and socket.io chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@Eisforinnovate"
+  },
+  "author": "Eisforinnovate",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.3.4"
+  }
+}
